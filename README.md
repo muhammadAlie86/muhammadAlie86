@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Muhammad Ali Mukti, i am a student at Indraprasta University and a content creator at Kelas Coding .I have created a lot of tutorial videos about Kotlin Fundamental and Kotlin OOP. I love creating mobile applications and I have learned a lot about how to develop mobile applications properly. you can checkout my youtube https://www.youtube.com/c/KelasCoding
+I am Muhammad Ali Mukti, i am a Software Engginner and a content creator at Kelas Coding .I have created a lot of tutorial videos about Kotlin Fundamental and Kotlin OOP. I love creating mobile applications and I have learned a lot about how to develop mobile applications properly. you can checkout my youtube https://www.youtube.com/c/KelasCoding
 
 <p align="left">
 <a href="https://github.com/muhammadAlie86">
